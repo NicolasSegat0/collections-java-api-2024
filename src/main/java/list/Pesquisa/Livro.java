@@ -1,4 +1,4 @@
-package main.java.Pesquisa;
+package main.java.list.Pesquisa;
 
 public class Livro {
     //atributos
